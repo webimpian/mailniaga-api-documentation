@@ -2,7 +2,9 @@
 
 ***
 
-<mark style="color:green;">`GET`</mark> `/api/v0/logs`
+<mark style="color:blue;">`GET`</mark> `/api/v0/logs`
+
+
 
 Our endpoint has support feature to retrieve sending log according to client sending event on previous process.
 
