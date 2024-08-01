@@ -13,5 +13,5 @@
 
 ## Sitelink
 
-* [SMTP Dashboard](https://gateway.mailniaga.mx/)
+* [Dashboard](https://gateway.mailniaga.mx/)
 * [Facebook @mailniaga](https://facebook.com/mailniaga)
