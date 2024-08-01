@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Welcome](README.md)
+
+## Version v0 <a href="#v0" id="v0"></a>
+
+* [Account](v0/account.md)
+* [Message](v0/message.md)
+* [Personalized Message](v0/personalized-message.md)
+* [Sending Log](v0/sending-log.md)
+* [Status Code](v0/status-code.md)
+* [SMTP](v0/smtp.md)
+
+## Sitelink
+
+* [SMTP Dashboard](https://gateway.mailniaga.mx/)
+* [Facebook @mailniaga](https://facebook.com/mailniaga)
