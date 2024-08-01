@@ -4,6 +4,8 @@
 
 <mark style="color:green;">`POST`</mark> `/api/v0/messages`
 
+
+
 Submission of email through API.
 
 
@@ -65,12 +67,10 @@ curl -X POST https://api.mailniaga.mx/api/v0/messages \
 
 
 
-JSON structure response.
+JSON structured response.
 
 
 
-{% tabs %}
-{% tab title="200" %}
 ```json
 {
     "error": false, 
@@ -81,6 +81,4 @@ JSON structure response.
     }
 }
 ```
-{% endtab %}
-{% endtabs %}
 
