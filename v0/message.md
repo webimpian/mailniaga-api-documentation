@@ -49,7 +49,7 @@ Sending via command line using cURL.
 curl -X POST https://api.mailniaga.mx/api/v0/messages \
 -H "Content-Type: application/json" \
 -H "X-API-Key: <API_Key>" \
--d '{
+-D '{
     "from": "Demo <demo@webimpian.com>",
     
     // Use comma for multiple recipient, limit up to 1,000 in single request
