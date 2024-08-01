@@ -4,7 +4,7 @@
 
 ## Version v0 <a href="#v0" id="v0"></a>
 
-* [Account](v0/account.md)
+* [User](v0/user.md)
 * [Message](v0/message.md)
 * [Personalized Message](v0/personalized-message.md)
 * [Sending Log](v0/sending-log.md)
