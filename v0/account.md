@@ -2,7 +2,9 @@
 
 ***
 
-<mark style="color:green;">`GET`</mark> `/api/v0/user`
+<mark style="color:blue;">`GET`</mark> `/api/v0/user`
+
+
 
 Get basic information for authenticate user via API key.
 
@@ -16,12 +18,10 @@ curl -X GET https://api.mailniaga.mx/api/v0/user \
 
 
 
-JSON structure response.
+JSON structured response.
 
 
 
-{% tabs %}
-{% tab title="200" %}
 ```json
 {
     "error": false,
@@ -38,6 +38,4 @@ JSON structure response.
     "message": "OK"
 }
 ```
-{% endtab %}
-{% endtabs %}
 
