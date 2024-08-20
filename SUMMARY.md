@@ -7,6 +7,7 @@
 * [User](v0/user.md)
 * [Message](v0/message.md)
 * [Personalized Message](v0/personalized-message.md)
+* [Delivery Callback](v0/delivery-callback.md)
 * [Sending Log](v0/sending-log.md)
 * [Status Code](v0/status-code.md)
 * [SMTP](v0/smtp.md)
