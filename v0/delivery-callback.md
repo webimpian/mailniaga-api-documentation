@@ -4,7 +4,11 @@
 
 
 
-Optionally you can set delivery callback URL at Dashboard > SMTP > Callback URL. JSON structured response.
+Optionally you can set delivery callback URL at Dashboard > SMTP > Callback URL. Our server will retry up to 5 times attempt.
+
+
+
+JSON structured response.
 
 
 
