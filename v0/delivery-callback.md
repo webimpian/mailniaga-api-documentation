@@ -22,8 +22,7 @@ JSON structured response.
     "interface": "api",
     "from" : "from-api@mailniaga.com",
     "delivered": true
-    "delivery_response": "250 2.0.0 OK 1724176407 d9443c01a7336-201f03b15fbsi24823855ad.546 - gsmtp
-"
+    "delivery_response": "250 2.0.0 OK 1724176407 d9443c01a7336-201f03b15fbsi24823855ad.546 - gsmtp",
     "ip": "210.79.174.88",
     "mx": "gmail-smtp-in.l.google.com"
 }
