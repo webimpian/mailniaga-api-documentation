@@ -52,12 +52,12 @@ JSON structure response.
                 "from": "hai@mailniaga.com",
                 "to": "demo_user@mailniaga.com",
                 "delivered": 1,
-                "status": "{
+                "status": {
                     "delivered": true,
                     "ip": "139.99.84.121",
                     "mx": "aspmx.l.google.com",
                     "response": "250 2.0.0 OK 1719976296 d9443c01a7336-1fb0e952da5si13548855ad.414 - gsmtp"
-                }"
+                }
             }
         ],
         "total_record": 862912,
