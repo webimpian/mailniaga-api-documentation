@@ -46,7 +46,7 @@ JSON structure response.
         "data": [
             {
                 "created_at": "2023-07-19T00:04:14.362Z",
-                "enveloper_id": "1896b7565ae00006b2",
+                "envelope_id": "1896b7565ae00006b2",
                 "interface": "api",
                 "domain": "mailniaga.com",
                 "from": "hai@mailniaga.com",
