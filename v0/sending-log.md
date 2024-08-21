@@ -60,8 +60,8 @@ JSON structure response.
                 }"
             }
         ],
-        "total_records": 862912,
-        "total_pages": 862912,
+        "total_record": 862912,
+        "total_page": 862912,
         "current_page": 2,
         "limit": 2
     },
