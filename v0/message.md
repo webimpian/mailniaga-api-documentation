@@ -47,22 +47,22 @@ Sending via command line using cURL.
 
 ```markup
 curl -X POST https://api.mailniaga.mx/api/v0/messages \
--H "Content-Type: application/json" \
--H "X-API-Key: <API_Key>" \
--D '{
-    "from": "Demo <demo@webimpian.com>",
-    
-    // Use comma for multiple recipient, limit up to 1,000 in single request
-    "to": [
-        "Name 1 <demo@purpose-1.io>",
-        "Name 2 <demo@purpose-2.io>"
-    ], 
-    "reply_to": "support@customer.dot",
-    "unsubscribe_link": "https://newsletter.mailniaga.com/unsubscribe/UClRDVU763NX75ohJhys7PIg",
-    "subject": "Your Campaign Subject",
-    "as_html": 1,
-    "content": "<p>This is demo HTML.</p>"
-}'
+  --header "Content-Type: application/json" \
+  --header "X-API-Key: <API_Key>" \
+  --data-raw '{
+        "from": "Demo <demo@webimpian.com>",
+        
+        // Use comma for multiple recipient, limit up to 1,000 in single request
+        "to": [
+            "Name 1 <demo@purpose-1.io>",
+            "Name 2 <demo@purpose-2.io>"
+        ], 
+        "reply_to": "support@customer.dot",
+        "unsubscribe_link": "https://newsletter.mailniaga.com/unsubscribe/UClRDVU763NX75ohJhys7PIg",
+        "subject": "Your Campaign Subject",
+        "as_html": 1,
+        "content": "<p>This is demo HTML.</p>"
+    }'
 ```
 
 

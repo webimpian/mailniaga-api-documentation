@@ -14,8 +14,8 @@ Log data only available after sending event from our outbound mail server. If th
 
 ```markup
 curl -X GET https://api.mailniaga.mx/api/v0/logs?limit=100&page=1 \
--H "Content-Type: application/json" \
--H "X-API-Key: <API_Key>" 
+  --header "Content-Type: application/json" \
+  --header "X-API-Key: <API_Key>" 
 ```
 
 

@@ -1,4 +1,4 @@
-# Account
+# User
 
 ***
 
@@ -12,8 +12,8 @@ Get basic information for authenticate user via API key.
 
 ```markup
 curl -X GET https://api.mailniaga.mx/api/v0/user \
--H "Content-Type: application/json" \
--H "X-API-Key: <API_Key>"
+  --header "Content-Type: application/json" \
+  --header "X-API-Key: <API_Key>"
 ```
 
 
